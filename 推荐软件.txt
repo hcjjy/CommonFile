@@ -1,0 +1,11 @@
+播放器 ：Daum Potplayer-64 Bits
+
+pdf阅读器：Foxit Reader PDF Document  
+
+清理工具：CClaner
+防御工具：Mircrosoft Security Essentials
+文件扫描软件： everything
+文件对比软件: Beyond Compare 4
+购物网站：smzdm.com（什么值得买）
+保护眼睛: f.lux
+UML软件: starUML
