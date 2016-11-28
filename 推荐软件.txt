@@ -1,11 +1,12 @@
-²¥·ÅÆ÷ £ºDaum Potplayer-64 Bits
+æ’­æ”¾å™¨ ï¼šDaum Potplayer-64 Bits
 
-pdfÔÄ¶ÁÆ÷£ºFoxit Reader PDF Document  
+pdfé˜…è¯»å™¨ï¼šFoxit Reader PDF Document  
 
-ÇåÀí¹¤¾ß£ºCClaner
-·ÀÓù¹¤¾ß£ºMircrosoft Security Essentials
-ÎÄ¼şÉ¨ÃèÈí¼ş£º everything
-ÎÄ¼ş¶Ô±ÈÈí¼ş: Beyond Compare 4
-¹ºÎïÍøÕ¾£ºsmzdm.com£¨Ê²Ã´ÖµµÃÂò£©
-±£»¤ÑÛ¾¦: f.lux
-UMLÈí¼ş: starUML
+æ¸…ç†å·¥å…·ï¼šCClaner
+é˜²å¾¡å·¥å…·ï¼šMircrosoft Security Essentials
+æ–‡ä»¶æ‰«æè½¯ä»¶ï¼š everything
+æ–‡ä»¶å¯¹æ¯”è½¯ä»¶: Beyond Compare 4
+è´­ç‰©ç½‘ç«™ï¼šsmzdm.comï¼ˆä»€ä¹ˆå€¼å¾—ä¹°ï¼‰
+ä¿æŠ¤çœ¼ç›: f.lux
+UMLè½¯ä»¶: starUML
+æ€ç»´å¯¼å›¾è½¯ä»¶ï¼šXMind
