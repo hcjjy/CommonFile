@@ -10,3 +10,6 @@ pdf阅读器：Foxit Reader PDF Document
 保护眼睛: f.lux
 UML软件: starUML
 思维导图软件：XMind
+翻墙软件： 
+shadowsock  https://shadowsocks.com.hk/
+配置方法    https://quericy.me/blog/699/
